@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1038" viewBox="0 0 1920 1038">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_13" data-name="Rectángulo 13" width="1920" height="1038" transform="translate(-177 79)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_150" data-name="Grupo 150" transform="translate(0 -344)">
+    <g id="Grupo_149" data-name="Grupo 149">
+      <g id="Grupo_21" data-name="Grupo 21" transform="translate(177 193)">
+        <g id="Grupo_20" data-name="Grupo 20" transform="translate(0 72)" clip-path="url(#clip-path)">
+          <path id="Trazado_22" data-name="Trazado 22" d="M1178.3,1118.673c-84.724,84.729-84.719,222.1,0,306.816-84.719-84.719-222.1-84.719-306.816,0-84.724,84.735-222.1,84.735-306.821,0-80.35-80.35-208.066-84.493-293.3-12.434l-.031.036q-6.946,5.86-13.482,12.4-2.965,2.957-5.786,6.007l-.031.036C166.8,1503.6,39.085,1499.452-41.27,1419.1c-84.724-84.73-84.724-222.1,0-306.816,84.724-84.734,84.724-222.1,0-306.821s-84.724-222.1,0-306.816c84.724-84.735,222.1-84.735,306.816,0-84.719-84.735-84.719-222.1,0-306.821s222.1-84.729,306.821,0,84.724,222.086,0,306.821c-84.724,84.719-84.724,222.086,0,306.816,80.355,80.355,208.071,84.5,293.3,12.439l.031-.036q6.946-5.86,13.482-12.4,2.965-2.965,5.786-6.007l.031-.036c85.232-72.059,212.948-67.916,293.3,12.439C1263.026,896.587,1263.026,1033.949,1178.3,1118.673Zm-600.155-12.4q-6.939,5.86-13.482,12.4c-1.977,1.976-3.9,3.974-5.781,6.012q6.939-5.868,13.482-12.4Q575.331,1109.317,578.147,1106.27Z" transform="translate(-433.285 160.642)" fill="#5e00cc"/>
+          <circle id="Elipse_14" data-name="Elipse 14" cx="136.091" cy="136.091" r="136.091" transform="translate(241.359 559.891)" fill="#5e00cc"/>
+          <circle id="Elipse_15" data-name="Elipse 15" cx="30.484" cy="30.484" r="30.484" transform="translate(213.332 946.686)" fill="#de0077"/>
+          <circle id="Elipse_16" data-name="Elipse 16" cx="74.644" cy="74.644" r="74.644" transform="translate(92.88 748.534)" fill="#d3dcff"/>
+          <circle id="Elipse_17" data-name="Elipse 17" cx="19.608" cy="19.608" r="19.608" transform="translate(428.892 879.921)" fill="#de0077"/>
+          <circle id="Elipse_18" data-name="Elipse 18" cx="46.043" cy="46.043" r="46.043" transform="translate(213.246 449.332)" fill="#cab49f"/>
+          <circle id="Elipse_19" data-name="Elipse 19" cx="40.518" cy="40.518" r="40.518" transform="translate(583.315 805.196)" fill="#cab49f"/>
+          <circle id="Elipse_23" data-name="Elipse 23" cx="44.201" cy="44.201" r="44.201" transform="translate(522.977 78.523)" fill="#5e00cc"/>
+          <circle id="Elipse_24" data-name="Elipse 24" cx="16.575" cy="16.575" r="16.575" transform="translate(524.103 22.448)" fill="#de0077"/>
+          <circle id="Elipse_25" data-name="Elipse 25" cx="136.286" cy="136.286" r="136.286" transform="translate(-63.124 7.737)" fill="#5e00cc"/>
+          <circle id="Elipse_26" data-name="Elipse 26" cx="12.201" cy="12.201" r="12.201" transform="translate(272.757 310.93)" fill="#5e00cc"/>
+          <circle id="Elipse_27" data-name="Elipse 27" cx="26.237" cy="26.237" r="26.237" transform="translate(215.931 363.818)" fill="#de0077"/>
+          <circle id="Elipse_28" data-name="Elipse 28" cx="41.535" cy="41.535" r="41.535" transform="translate(317.739 905.152)" fill="#5e00cc"/>
+          <circle id="Elipse_29" data-name="Elipse 29" cx="133.66" cy="133.66" r="133.66" transform="translate(226.077 -81.862)" fill="#d3dcff"/>
+          <circle id="Elipse_30" data-name="Elipse 30" cx="46.045" cy="46.045" r="46.045" transform="translate(163.403 242.874)" fill="#5e00cc"/>
+          <circle id="Elipse_31" data-name="Elipse 31" cx="9.804" cy="9.804" r="9.804" transform="translate(265.35 878.213)" fill="#5e00cc"/>
+          <circle id="Elipse_32" data-name="Elipse 32" cx="27.812" cy="27.812" r="27.812" transform="translate(141.812 674.434)" fill="#cab49f"/>
+          <circle id="Elipse_33" data-name="Elipse 33" cx="24.551" cy="24.551" r="24.551" transform="translate(704.648 868.806)" fill="#de0077"/>
+          <circle id="Elipse_34" data-name="Elipse 34" cx="9.577" cy="9.577" r="9.577" transform="translate(515.314 859.229)" fill="#5e00cc"/>
+          <circle id="Elipse_36" data-name="Elipse 36" cx="74.729" cy="74.729" r="74.729" transform="translate(358.795 196.443)" fill="#5e00cc"/>
+          <circle id="Elipse_37" data-name="Elipse 37" cx="36.834" cy="36.834" r="36.834" transform="translate(317.953 357.551)" fill="#5e00cc"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_24" data-name="Grupo 24" transform="translate(611 443.498)">
+      <text id="Déjate_llevar_por_Puntomanía" data-name="Déjate llevar por
+Puntomanía" transform="translate(1190.818 269.85)" fill="#5e00cc" font-size="152" font-family="Aeonik-Regular, Aeonik"><tspan x="-1088" y="0">Déjate llevar por</tspan><tspan font-family="Aeonik-Bold, Aeonik" font-weight="700"><tspan x="-850" y="138">Puntomanía</tspan></tspan></text>
+      <path id="Trazado_233" data-name="Trazado 233" d="M43.445,0A43.445,43.445,0,1,1,0,43.445,43.445,43.445,0,0,1,43.445,0Z" transform="translate(670.19 324.663)" fill="#d20079"/>
+      <g id="Grupo_23" data-name="Grupo 23" transform="translate(385.727 459.153)">
+        <g id="Grupo_22" data-name="Grupo 22">
+          <text id="Entregaremos_hasta_60_millones_de_pesos_en_Puntos" data-name="Entregaremos hasta
+60 millones* de pesos
+en Puntos" transform="translate(796 74)" font-size="80" font-family="Aeonik-Regular, Aeonik"><tspan x="-717" y="0">Entregaremos hasta</tspan><tspan font-family="Aeonik-Bold, Aeonik" font-weight="700"><tspan x="-828" y="80">60 millones* de pesos</tspan></tspan><tspan x="-372" y="160">en </tspan><tspan y="160" font-family="Aeonik-Bold, Aeonik" font-weight="700">Puntos</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
